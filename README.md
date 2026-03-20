@@ -3,6 +3,11 @@
 # Mohamed Hiba
 
 **AI/ML Engineer · Computer Engineering @ CCNY (4+1 M.S.) · Building production-minded ML systems**
+<p align="center">
+  <a href="https://mohamedhiba.com/">
+    <img src="https://img.shields.io/badge/Portfolio-mohamedhiba.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 <a href="mailto:mohamedehiba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mohamedhiba"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Hiba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
