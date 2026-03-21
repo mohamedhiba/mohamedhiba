@@ -36,6 +36,9 @@ My interests are strongest at the intersection of:
 
 I like shipping work across the full ML stack: data prep, training, evaluation, calibration, APIs, deployment, and user-facing demos.
 
+> Currently working on:
+> - 1) 311 data response time model. 
+> - 2) focusedAI v2: Adaptive Study Attention + Intervention System 
 ---
 
 ## Featured Work
