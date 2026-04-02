@@ -1,156 +1,126 @@
 <div align="center">
 
-# Mohamed Hiba
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hiba+%F0%9F%91%8B;AI%2FML+Engineer;Building+production-grade+ML+systems" alt="Typing SVG" />
 
-**AI/ML Engineer · Computer Engineering @ CCNY (4+1 M.S.) · Building production-minded ML systems**
-<p align="center">
-  <a href="https://mohamedhiba.com/">
-    <img src="https://img.shields.io/badge/Portfolio-mohamedhiba.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<a href="mailto:mohamedehiba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohamedhiba"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Hiba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/mohamedhiba"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+**Computer Engineering @ CCNY · 4+1 M.S. Track · GPA 3.81**
 
-<img src="https://img.shields.io/badge/Python-Expertish-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/TypeScript-Product%20Work-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/CCNY-4%2B1%20M.S.-6A0DAD?style=flat-square" alt="CCNY 4+1" />
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedhiba.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedhiba.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedehiba@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedhiba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhiba)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedhiba&style=for-the-badge&color=0A0A0A&label=PROFILE+VIEWS)](https://github.com/mohamedhiba)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I’m a Computer Engineering student at **The City College of New York** in the **accelerated 4+1 M.S. track**, focused on building **real-world AI/ML systems** that are not just trained, but evaluated, deployed, and usable.
+I'm a Computer Engineering student at **The City College of New York** in the accelerated **4+1 M.S. track**, focused on building AI/ML systems that are not just trained — but evaluated, deployed, and usable.
 
-My interests are strongest at the intersection of:
-- **Applied machine learning and deep learning**
-- **Computer vision and attention-aware systems**
-- **Inference, deployment, and ML productization**
-- **Software that improves focus, learning, and decision-making**
+My strongest interests:
 
-I like shipping work across the full ML stack: data prep, training, evaluation, calibration, APIs, deployment, and user-facing demos.
+- 🔬 **Applied ML & deep learning** — full pipeline, soup to nuts
+- 👁️ **Computer vision & attention-aware systems**
+- 🧠 **NLP & language model fine-tuning**
+- 🚀 **ML productization** — inference, APIs, deployment, calibration
 
-> Currently working on:
-> - 1) 311 data response time model. 
-> - 2) focusedAI v2: Adaptive Study Attention + Intervention System 
+> **Currently building:**
+> `ResolveNYC` — DistilBERT fine-tuned on NYC 311 civic data &nbsp;|&nbsp; `focusedAI v2` — adaptive attention + intervention system
+
 ---
 
-## Featured Work
+## Featured Projects
 
 ### focusedAI — Real-Time Attention State Classifier
-- Built a **MobileNetV3-Small** based classifier for `focused / neutral / distracted`
-- Reached **0.918 macro-F1**
-- Added **temperature scaling**, **per-class logit biasing**, and smoothing logic for more stable real-time predictions
-- Built an interactive demo around webcam inference and evaluation workflows
+> `MobileNetV3-Small` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `Temperature Scaling` &nbsp;·&nbsp; `OpenCV`
 
-### lstm-keyboard-v2 — Next-Word Prediction System
-- Built a **word-level LSTM language model from scratch** using WikiText-2
-- Implemented an end-to-end pipeline from preprocessing to inference API
-- Evaluated with **perplexity**, **Top-1**, and **Top-5** metrics
-- Packaged for deployment with **FastAPI**, **Docker**, and **Google Cloud Run**
+Webcam-based 3-class attention classifier (`focused / neutral / distracted`). Reached **0.918 macro-F1** with temperature scaling, per-class logit biasing, and smoothing for stable real-time inference. Ships with an interactive demo and full eval workflow.
 
-### Additional Public Work
-- **provisional** — recent TypeScript product work
-- **ResolveNYC** — civic-data / ML-oriented project work
-- **tabular-ml-playbook** — ML experimentation and tabular workflows
-- **c_micro** / **Lab-4-PIC32MX330-** — lower-level embedded and systems-oriented code
+### lstm-keyboard-v2 — Next-Word Prediction
+> `PyTorch LSTM` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Google Cloud Run`
+
+Word-level LSTM trained from scratch on WikiText-2. Evaluated on perplexity, Top-1, and Top-5 accuracy. Deployed end-to-end via FastAPI + Docker + GCP Cloud Run.
+
+### ResolveNYC — Civic ML
+> `DistilBERT` &nbsp;·&nbsp; `HuggingFace Transformers` &nbsp;·&nbsp; `NYC Open Data`
+
+Fine-tuning DistilBERT to predict NYC 311 service request resolution times. Deep learning course group project covering data engineering through model evaluation.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedhiba&hide_border=true&theme=dark)](https://github.com/mohamedhiba)
+
+</div>
+
+<div align="center">
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhiba&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<br/>
+
 
 ---
 
 ## Experience
 
-### Computer Science Intern — Globetrotting Dominicana LLC
-- Built responsive admin dashboard features with authentication and REST integrations
-- Containerized services and improved development workflows with **Docker**
-- Automated CI/CD with **GitHub Actions**
-- Contributed production-facing improvements to core user flows
+**CS Intern — Globetrotting Dominicana LLC**
+Admin dashboard, REST integrations, Docker containerization, GitHub Actions CI/CD
 
-### Undergraduate Teaching Assistant — Hunter College (CSCI 127/135)
-- Supported students in **Python** and **C++** through 100+ 1-on-1 help sessions
-- Helped with debugging, libraries, problem solving, and data structures
-- Wrote mini-labs and supported course review sessions
+**Undergraduate TA — Hunter College (CSCI 127/135)**
+100+ 1-on-1 Python & C++ sessions, mini-labs, course review support
 
 ---
 
-## Tech I Work With
-
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+*Open to ML engineering internships, AI research, and software roles with strong AI/ML exposure*
 
-### ML / AI
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-### Backend
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-### Data
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-### Infra / Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+[![Email](https://img.shields.io/badge/mohamedehiba%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedehiba@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhiba)
 
 </div>
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedhiba&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhiba&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mohamedhiba&hide_border=true&theme=dark" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedhiba&repo=focusedAI&hide_border=true&theme=dark" alt="focusedAI repo card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedhiba&repo=lstm-keyboard-v2&hide_border=true&theme=dark" alt="lstm-keyboard-v2 repo card" />
-</div>
-
----
-
-## Current Focus
-
-- ML engineering internships and research opportunities
-- Production-grade AI systems in **vision**, **NLP**, and intelligent productivity tools
-- Stronger public packaging for projects: cleaner repos, demos, evaluation, and deployment
-
----
-
-## Contact
-
-- **Email:** mohamedehiba@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mohamedhiba
-- **GitHub:** https://github.com/mohamedhiba
-
-> Open to machine learning engineering, AI research, and software roles with strong AI/ML exposure.
