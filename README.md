@@ -23,10 +23,10 @@ I'm a Computer Engineering student at **The City College of New York** in the ac
 
 My strongest interests:
 
-- 🔬 **Applied ML & deep learning** — full pipeline, soup to nuts
-- 👁️ **Computer vision & attention-aware systems**
-- 🧠 **NLP & language model fine-tuning**
-- 🚀 **ML productization** — inference, APIs, deployment, calibration
+- **Applied ML & deep learning** — full pipeline, soup to nuts
+- **Computer vision & attention-aware systems**
+- **NLP & language model fine-tuning**
+- **ML productization** — inference, APIs, deployment, calibration
 
 > **Currently building:**
 > `ResolveNYC` — DistilBERT fine-tuned on NYC 311 civic data &nbsp;|&nbsp; `focusedAI v2` — adaptive attention + intervention system
