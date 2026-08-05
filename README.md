@@ -4,7 +4,7 @@
 
 <br/>
 
-**Computer Engineering @ CCNY · 4+1 M.S. Track · GPA 3.81**
+**Computer Engineering @ CCNY · 4+1 M.S. Track · GPA 3.77**
 
 <br/>
 
