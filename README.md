@@ -97,7 +97,7 @@ Fine-tuning DistilBERT to predict NYC 311 service request resolution times. Deep
 
 <div align="center">
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhiba&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhiba&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <br/>
