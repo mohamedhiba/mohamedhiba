@@ -117,11 +117,6 @@ Parallel MIPS and VHDL kernels for an FP8 adder, dot product, and matrix-multipl
 
 </div>
 
-<div align="center">
-  
-[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhiba&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 <br/>
 
 ---
